@@ -1,0 +1,39 @@
+{{- $source := $.Get "src" -}}
+{{- if not $source -}}
+  {{- errorf "Video 'src' must be supplied" -}}
+{{- end -}}
+{{- $video := or ($.Page.Resources.GetMatch $source) (resources.GetMatch $source) -}}
+{{- $type := $.Get "type" -}}
+{{- if $video -}}
+  {{- $type = $type | default $video.MediaType.Type -}}
+{{- end -}}
+{{- $type := $.Get "type" | default "video/mp4" -}}
+{{- $width := $.Get "width" | default "100%" -}}
+{{- $caption := $.Get "caption" -}}
+{{- $preload := $.Get "preload" | default "metadata" -}}
+{{- $controls := $.Get "controls" | default true -}}
+{{- $muted := $.Get "muted" -}}
+{{- $loop := $.Get "loop" -}}
+{{- $autoplay := $.Get "autoplay" -}}
+{{- $poster := $.Get "poster" -}}
+
+{{- if $caption -}}
+<figure>
+{{- end -}}
+  <video preload="{{ $preload }}"
+    width="{{ $width }}"
+    {{- if $controls }} controls{{ end -}}
+    {{- if $muted }} muted{{ end -}}
+    {{- if $loop }} loop{{ end -}}
+    {{- if $autoplay }} autoplay{{ end -}}
+    {{- with $poster }} poster="{{ . }}"{{ end -}}>
+    <source
+      src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ $source }}{{ end }}"
+      type="{{ $type }}"
+    >
+    Your browser does not support the video element.
+  </video>
+{{- with $caption -}}
+  <figcaption>{{ . }}</figcaption>
+</figure>
+{{- end -}}

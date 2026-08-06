@@ -1,0 +1,16 @@
+# Hugo output and caches
+/public/
+/resources/
+/.cache/
+/.hugo_build.lock
+
+# Node.js dependencies
+/node_modules/
+
+# Local and editor files
+.DS_Store
+*.swp
+*~
+
+# Local source-data downloads
+/.local/
