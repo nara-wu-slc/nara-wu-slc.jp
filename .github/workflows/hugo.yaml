@@ -71,7 +71,7 @@ jobs:
       - name: Verify Hugo Extended
         run: |
           hugo version
-          hugo version | trep -q '+extended'
+          hugo version | grep -q '+extended'
 
       - name: Install Node.js dependencies
         run: npm ci
