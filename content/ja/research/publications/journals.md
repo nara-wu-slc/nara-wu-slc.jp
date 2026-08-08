@@ -1,0 +1,78 @@
++++
+identifier = 'research_publications_journal'
+title = '学術論文誌'
+description = '学術論文誌に掲載された研究業績を年別に掲載しています。'
+type = 'docs'
+icon = 'fa-solid fa-file-lines'
+parent = 'research_publications'
+weight = 1
+hide_summary = true
++++
+
+## 2025
+1. Kota Iura, Yuki Saito, Shinnosuke Takamichi, Graham Neubig, **Katsuhito Sudoh**, Hiroshi Saruwatari, Hiroya Takamura, Tatsuya Ishigaki, Excitement-Inducing Commentary Text-to-Speech System for Fighting Game Video Scenes, *IEEE Access*, Vol. 13, pp. 216748–216758, 2025 [[link]](https://doi.org/10.1109/access.2025.3648378)
+1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, Taro Watanabe, Enhancing Automated Essay Scoring with Grammatical Features using Multi-task Learning and Item Response Theory, *Journal of Natural Language Processing*, Vol. 32, No. 2, pp. 438–479, 2025 [[link]](https://doi.org/10.5715/jnlp.32.438)
+1. Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, **Katsuhito Sudoh**, Sakriani Sakti, Satoshi Nakamura, End-to-end Simultaneous Speech Translation with Style Tags using Human Simultaneous Interpretation Data, *Journal of Natural Language Processing*, Vol. 32, No. 2, pp. 404–437, 2025 [[link]](https://doi.org/10.5715/jnlp.32.404)
+1. 石川 隆太, 加納 保昌, **須藤 克仁**, 中村 哲, 文内コンテキストを利用した分割統治ニューラル機械翻訳, *自然言語処理*, Vol. 32, No. 1, pp. 114–133, 2025 [[link]](https://doi.org/10.5715/jnlp.32.114)
+
+## 2024
+1. Yuka Ko, **Katsuhito Sudoh**, Sakriani Sakti, Satoshi Nakamura, Neural End-To-End Speech Translation Leveraged by ASR Posterior Distribution, *IEICE Transactions on Information and Systems*, Vol. E107.D, No. 10, pp. 1322–1331, 2024 [[link]](https://doi.org/10.1587/transinf.2023edp7249)
+1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Average Token Delay: A Duration-aware Latency Metric for Simultaneous Translation, *Journal of Natural Language Processing*, Vol. 31, No. 3, pp. 1049–1075, 2024 [[link]](https://doi.org/10.5715/jnlp.31.1049)
+1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, NAIST Simultaneous Interpretation Corpus: Development and Analyses of Data from Interpreters of Different Levels, *Journal of Natural Language Processing*, Vol. 31, No. 3, pp. 868–893, 2024 [[link]](https://doi.org/10.5715/jnlp.31.868)
+1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Prefix Alignment for Training Simultaneous Machine Translation, *Journal of Natural Language Processing*, Vol. 31, No. 1, pp. 79–104, 2024 [[link]](https://doi.org/10.5715/jnlp.31.79)
+1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, Improving Speech Translation Accuracy and Time Efficiency With Fine-Tuned wav2vec 2.0-Based Speech Segmentation, *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, Vol. 32, pp. 906–916, 2024 [[link]](https://doi.org/10.1109/taslp.2023.3343614)
+
+## 2023
+1. Shohei Tanaka, Koichiro Yoshino, **Katsuhito Sudoh**, Satoshi Nakamura, Reflective action selection based on positive-unlabeled learning and causality detection model, *Computer Speech and Language*, Vol. 78, pp. 101463–101463, 2023 [[link]](https://doi.org/10.1016/j.csl.2022.101463)
+1. Keisuke Toyama, **Katsuhito Sudoh**, Satoshi Nakamura, Content Order-Controllable MR-to-Text, *IEEE Access*, Vol. 11, pp. 129353–129365, 2023 [[link]](https://doi.org/10.1109/access.2023.3334139)
+
+## 2022
+1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, Knowledge Distillation for Translating Erroneous Speech Transcriptions, *Journal of Natural Language Processing*, Vol. 29, No. 2, pp. 344–366, 2022 [[link]](https://doi.org/10.5715/jnlp.29.344)
+1. Kosuke Takahashi, **Katsuhito Sudoh**, Satoshi Nakamura, Automatic Machine Translation Evaluation using a Source and Reference Sentence with a Cross-lingual Language Model, *Journal of Natural Language Processing*, Vol. 29, No. 1, pp. 3–22, 2022
+1. Yoichi Ishibashi, Sho Yokoi, **Katsuhito Sudoh**, Satoshi Nakamura 0001, Subspace-based Set Operations on a Pre-trained Word Embedding Space., *CoRR*, Vol. abs/2210.13034, 2022 [[link]](https://doi.org/10.48550/arXiv.2210.13034)
+
+## 2021
+1. Hour Kaing, Chenchen Ding, Masao Utiyama, Eiichiro Sumita, Sethserey Sam, Sopheap Seng, **Katsuhito Sudoh**, Satoshi Nakamura, Towards Tokenization and Part-of-Speech Tagging for Khmer: Data and Discussion, *ACM Transactions on Asian and Low-Resource Language Information Processing*, Vol. 20, No. 6, 2021 [[link]](https://doi.org/10.1145/3464378)
+1. Hour Kaing, Chenchen Ding, Masao Utiyama, Eiichiro Sumita, **Katsuhito Sudoh**, Satoshi Nakamura, Constituency Parsing by Cross-Lingual Delexicalization, *IEEE Access*, Vol. 9, pp. 141571–141578, 2021 [[link]](https://doi.org/10.1109/ACCESS.2021.3120382)
+1. Yui Oka, Katsuhito Sudoh, Satoshi Nakamura, Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding, *自然言語処理*, Vol. 28, No. 3, pp. 778–801, 2021 [[link]](https://doi.org/10.5715/jnlp.28.778)
+1. Haruko Yagura, Hiroki Tanaka, Taiki Kinoshita, Hiroki Watanabe, Shunnosuke Motomura, **Katsuhito Sudoh**, Satoshi Nakamura, Selective Attention Measurement of Experienced Simultaneous Interpreters Using EEG Phase-Locked Response, *Frontiers in Human Neuroscience*, Vol. 15, 2021 [[link]](https://doi.org/10.3389/fnhum.2021.581525)
+1. Yoichi Ishibashi, **Katsuhito Sudoh**, Koichiro Yoshino, Satoshi Nakamura, Reflection-based Word Attribute Transfer, *Journal of Natural Language Processing*, Vol. 28, No. 1, pp. 206–234, 2021
+1. Ander Martinez, **Katsuhito Sudoh**, Yuji Matsumoto, Sub-Subword N-Gram Features for Subword-Level Neural Machine Translation, *Journal of Natural Language Processing*, Vol. 28, No. 1, pp. 82–103, 2021
+1. 田中 翔平, 吉野 幸一郎, **須藤 克仁**, 中村 哲, 雑談対話応答における連続する事態の一貫性と対話継続性の関係, *自然言語処理*, Vol. 28, No. 1, pp. 26–59, 2021
+
+## 2020
+1. Johanes Effendi, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Leveraging neural caption translation with visually grounded paraphrase augmentation, *IEICE Transactions on Information and Systems*, Vol. E103D, No. 3, pp. 674–683, 2020 [[link]](https://doi.org/10.1587/transinf.2019EDP7065)
+
+## 2019
+1. Yuta Nishimura, **Katsuhito Sudoh**, Graham Neubig, Satoshi Nakamura, Multi-Source Neural Machine Translation With Missing Data, *IEEE/ACM Transaction on Audio, Speech, and Language Processing*, Vol. 28, pp. 569–580, 2019 [[link]](https://doi.org/10.1109/TASLP.2019.2959224)
+1. 星野 翔, 宮尾 祐介, **須藤 克仁**, 林 克彦, 永田 昌明, 統計的機械翻訳のための統語に基づく単純な事前並べ替え手法, *情報処理学会論文誌*, Vol. 60, No. 3, pp. 890–902, 2019
+
+## 2017
+1. Xun Wang, **Katsuhito Sudoh**, Masaaki Nagata, Tomohide Shibata, Daisuke Kawahara, Sadao Kurohashi, Learning to Answer Questions by Understanding Using Entity-Based Memory Network, *Computacion y Sistemas*, Vol. 21, No. 4, 2017 [[link]](https://doi.org/10.13053/CyS-21-4-2845)
+
+## 2015
+1. Xun Wang, Yasuhisa Yoshida, Tsutomu Hirao, **Katsuhito Sudoh**, Masaaki Nagata, Summarization based on task-oriented discourse parsing, *IEEE/ACM Transactions on Audio Speech and Language Processing*, Vol. 23, No. 8, pp. 1358–1367, 2015 [[link]](https://doi.org/10.1109/TASLP.2015.2432573)
+
+## 2014
+1. **Katsuhito Sudoh**, Shinsuke Mori, Masaaki Nagata, Noise-aware Character Alignment for Extracting Transliteration Fragments, *Journal of Natural Language Processing*, Vol. 21, No. 6, pp. 1107–1131, 2014
+1. 林 克彦, **須藤 克仁**, 塚田 元, 鈴木 潤, 永田 昌明, 単語並べ替えと冠詞生成の同時逐次処理：日英機械翻訳への適用, *自然言語処理*, Vol. 21, No. 5, pp. 1037–1057, 2014
+1. Dan Han, Pascual Martinez-Gómez, Yusuke Miyao, **Katsuhito Sudoh**, Masaaki Nagata, Unlabeled Dependency Parsing Based Pre-reordering for Chinese-to-Japanese SMT, *Journal of Natural Language Processing*, Vol. 21, No. 3, pp. 485–514, 2014
+1. 平尾 努, 磯崎 秀樹, **須藤 克仁**, Duh Kevin, 塚田 元, 永田 昌明, 語順の相関に基づく機械翻訳の自動評価法, *自然言語処理*, Vol. 21, No. 3, pp. 421–444, 2014 [[link]](https://doi.org/10.5715/jnlp.21.421)
+
+## 2013
+1. **Katsuhito Sudoh**, Xianchao Wu, Kevin Duh, Hajime Tsukada, Masaaki Nagata, Syntax-based post-ordering for efficient Japanese-to-English translation, *ACM Transactions on Asian Language Information Processing*, Vol. 12, No. 3, 2013 [[link]](https://doi.org/10.1145/2499955.2499960)
+
+## 2012
+1. Hideki Isozaki, **Katsuhito Sudoh**, Hajime Tsukada, Kevin Duh, HPSG-based preprocessing for english-to-Japanese translation, *ACM Transactions on Asian Language Information Processing*, Vol. 11, No. 3, 2012 [[link]](https://doi.org/10.1145/2334801.2334802)
+
+## 2009
+1. Katsuhito Sudoh, Hajime Tsukada, Hideki Isozaki, Named entity recognition from speech using discriminative models and speech recognition confidence, *Journal of Information Processing*, Vol. 17, pp. 72–81, 2009 [[link]](https://doi.org/10.2197/ipsjjip.17.72)
+
+## 2006
+1. Ryuichiro Higashinaka, Katsuhito Sudoh, Mikio Nakano, Incorporating discourse features into confidence scoring of intention recognition results in spoken dialogue systems, *Speech Communication*, Vol. 48, No. 3-4, pp. 417–436, 2006 [[link]](https://doi.org/10.1016/j.specom.2005.06.011)
+
+## 2005
+1. **Katsuhito Sudoh**, Mikio Nakano, Post-dialogue confidence scoring for unsupervised statistical language model training, *Speech Communication*, Vol. 45, No. 4, pp. 387–400, 2005 [[link]](https://doi.org/10.1016/j.specom.2004.10.017)
+
+## 2002
+1. **須藤 克仁**, 角所 考, 美濃導彦, 現実物体の観測に基づく線状柔軟物体の操作時の形状のモデル化, *情報処理学会論文誌*, Vol. 43, No. 12, pp. 3632–3642, 2002

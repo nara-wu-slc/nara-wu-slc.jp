@@ -1,6 +1,7 @@
 +++
-identifier = 'research__languageh'
+identifier = 'research__language'
 title = '言語処理'
+description = 'Lab4SLCの機械翻訳、言語解析、自然言語処理応用に関する研究を紹介します。'
 type = 'docs'
 icon = 'fa-solid fa-language'
 parent = 'research'
@@ -8,11 +9,11 @@ weight = 22
 hide_summary = true
 +++
 
-## **機械翻訳**
+## 機械翻訳
 ### 同時機械翻訳の遅延と精度の関係
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/ogura.mp4" >}}
+    {{< video src="/videos/2025/ogura.mp4" label="小椋柚芽による同時機械翻訳研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -27,7 +28,7 @@ hide_summary = true
 ### 読み情報を追加で与える日英機械翻訳
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/yamada.mp4" >}}
+    {{< video src="/videos/2025/yamada.mp4" label="山田葵葉による日英機械翻訳研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -39,11 +40,11 @@ hide_summary = true
 {{< /card >}}
 {{< /cardpane >}}
 
-## **言語解析**
+## 言語解析
 ### 日本語固有表現抽出のためのデータ拡張
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/okazaki.mp4" >}}
+    {{< video src="/videos/2025/okazaki.mp4" label="岡崎ひかりによる日本語固有表現抽出研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -55,11 +56,11 @@ hide_summary = true
 {{< /card >}}
 {{< /cardpane >}}
 
-## **自然言語処理応用**
+## 自然言語処理応用
 ### メンタルヘルス不調者のSNS投稿分析
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/takabatake.mp4" >}}
+    {{< video src="/videos/2025/takabatake.mp4" label="髙畠暖佳によるSNS投稿分析研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -75,7 +76,7 @@ hide_summary = true
 ### 文章の推敲提案
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/sawada.mp4" >}}
+    {{< video src="/videos/2025/sawada.mp4" label="沢田詩織による文章推敲支援研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -86,4 +87,3 @@ hide_summary = true
 </ul>
 {{< /card >}}
 {{< /cardpane >}}
-

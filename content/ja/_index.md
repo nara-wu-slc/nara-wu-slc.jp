@@ -6,8 +6,8 @@ description = "奈良女子大学で「ことば」に関する研究をして�
 
 {{< blocks/lead color="primary" >}}
 {{< figure src="images/logo-nwu.svg" alt="Lab4SLC Logo" >}}
-<h1 style="color: white; font-size: 200%; font-weight: bold;">奈良女子大学</h1>
-<h1 style="color: white; font-size: 250%; font-weight: bolder;">音声・言語・コミュニケーション研究室</h1>
+<p class="home-affiliation">奈良女子大学</p>
+<h1 class="home-title">音声・言語・コミュニケーション研究室</h1>
 {{< /blocks/lead >}}
 
 {{< blocks/section color="white" type="row" >}}
@@ -37,4 +37,3 @@ description = "奈良女子大学で「ことば」に関する研究をして�
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-

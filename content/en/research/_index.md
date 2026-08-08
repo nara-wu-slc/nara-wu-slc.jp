@@ -1,6 +1,7 @@
 +++
 identifier = 'research'
 title = 'Research'
+description = 'Research at Lab4SLC on speech, language, and communication, together with our publication list.'
 type = 'docs'
 icon = 'fa-solid fa-book-open'
 weight = 20
@@ -25,4 +26,3 @@ Publication list of Lab4SLC and Prof. Sudoh
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-

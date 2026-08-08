@@ -54,11 +54,21 @@ hugo --gc --minify
 
 ## 業績一覧の更新
 
-`scripts/achievements.py` はresearchmapのJSONLから業績一覧用ファイルを生成します。
+`scripts/achievements.py` はresearchmapのJSONLから業績一覧の分類別ページを生成します。
 入力JSONLは `.local/` に置き、必要に応じて次を実行します。
 
 ```sh
 python3 scripts/achievements.py
 ```
 
-生成された `content/*/research/_publications/*.md_` はコミットします。
+生成された `content/*/research/publications/*.md` はコミットします。各ページの年見出しは
+Docsyの右側の目次に自動的に表示されます。
+
+## 研究紹介動画
+
+`video` ショートコードでは、スクリーンリーダー向けの `label` を指定できます。
+字幕ファイルを用意した場合は、`track`、`tracklang`、`tracklabel` でWebVTT字幕を追加できます。
+
+```go-html-template
+{{</* video src="/videos/example.mp4" label="研究紹介動画" track="/captions/example-ja.vtt" tracklang="ja" tracklabel="日本語" */>}}
+```

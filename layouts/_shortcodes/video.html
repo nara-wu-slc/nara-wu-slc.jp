@@ -7,9 +7,14 @@
 {{- if $video -}}
   {{- $type = $type | default $video.MediaType.Type -}}
 {{- end -}}
-{{- $type := $.Get "type" | default "video/mp4" -}}
+{{- $type = $type | default "video/mp4" -}}
 {{- $width := $.Get "width" | default "100%" -}}
 {{- $caption := $.Get "caption" -}}
+{{- $defaultLabel := cond (eq $.Page.Language.Lang "ja") "研究紹介動画" "Research presentation video" -}}
+{{- $label := $.Get "label" | default $caption | default $defaultLabel -}}
+{{- $track := $.Get "track" -}}
+{{- $tracklang := $.Get "tracklang" | default $.Page.Language.Lang -}}
+{{- $tracklabel := $.Get "tracklabel" | default $tracklang -}}
 {{- $preload := $.Get "preload" | default "metadata" -}}
 {{- $controls := $.Get "controls" | default true -}}
 {{- $muted := $.Get "muted" -}}
@@ -22,6 +27,7 @@
 {{- end -}}
   <video preload="{{ $preload }}"
     width="{{ $width }}"
+    aria-label="{{ $label }}"
     {{- if $controls }} controls{{ end -}}
     {{- if $muted }} muted{{ end -}}
     {{- if $loop }} loop{{ end -}}
@@ -31,7 +37,10 @@
       src="{{ with $video }}{{ .RelPermalink }}{{ else }}{{ $source }}{{ end }}"
       type="{{ $type }}"
     >
-    Your browser does not support the video element.
+    {{- with $track }}
+    <track kind="captions" src="{{ . }}" srclang="{{ $tracklang }}" label="{{ $tracklabel }}">
+    {{- end }}
+    {{ cond (eq $.Page.Language.Lang "ja") "お使いのブラウザは動画の再生に対応していません。" "Your browser does not support the video element." }}
   </video>
 {{- with $caption -}}
   <figcaption>{{ . }}</figcaption>

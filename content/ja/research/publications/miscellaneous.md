@@ -1,41 +1,51 @@
++++
+identifier = 'research_publications_misc'
+title = 'その他'
+description = 'その他の研究業績を年別に掲載しています。'
+type = 'docs'
+icon = 'fa-solid fa-file-lines'
+parent = 'research_publications'
+weight = 6
+hide_summary = true
++++
 
-### **2025**
+## 2025
 1. Kayo Matsushita, **Katsuhito Sudoh**, Comprehension of AI vs. Human Simultaneous Interpretation: A Comparative Study, *The 8th Conference of the International Association for Translation and Intercultural Studies*, 2025
 1. Goran Topic, Yuki Saito, **Katsuhito Sudoh**, Shinnosuke Takamichi, Hiroya Takamura, Graham Neubig, Tatsuya Ishigaki, VitaEval: Open-source Human Evaluation Tool for Video-to-Text and Video-to-Audio Systems, *Proceedings of the 18th International Natural Language Generation Conference: System Demonstrations*, pp. 8–9, 2025
 1. Idris Abdulmumin, Victor Agostinelli, Tanel Alumäe, Antonios Anastasopoulos, Luisa Bentivogli, Ondřej Bojar, Claudia Borg, Fethi Bougares, Roldano Cattoni, Mauro Cettolo, Lizhong Chen, William Chen, Raj Dabre, Yannick Estève, Marcello Federico, Mark Fishel, Marco Gaido, Dávid Javorský, Marek Kasztelnik, Fortuné Kponou, Mateusz Krubiński, Tsz Kin Lam, Danni Liu, Evgeny Matusov, Chandresh Kumar Maurya, John P. McCrae, Salima Mdhaffar, Yasmin Moslem, Kenton Murray, Satoshi Nakamura, Matteo Negri, Jan Niehues, Atul Kr. Ojha, John E. Ortega, Sara Papi, Pavel Pecina, Peter Polák, Piotr Połeć, Ashwin Sankar, Beatrice Savoldi, Nivedita Sethiya, Claytone Sikasote, Matthias Sperber, Sebastian Stüker, **Katsuhito Sudoh**, Brian Thompson, Marco Turchi, Alex Waibel, Patrick Wilken, Rodolfo Zevallos, Vilém Zouhar, Maike Züfle, Findings of the IWSLT 2025 Evaluation Campaign, *Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025)*, pp. 412–481, 2025 [[link]](https://doi.org/10.18653/v1/2025.iwslt-1.44)
-1. **須藤 克仁**, 自動同時音声翻訳のこれまでとこれから, *日本音響学会誌*, Vol. 81, Vol. 6, pp. 393–401, 2025 [[link]](https://doi.org/10.20697/jasj.81.6_393)
+1. **須藤 克仁**, 自動同時音声翻訳のこれまでとこれから, *日本音響学会誌*, Vol. 81, No. 6, pp. 393–401, 2025 [[link]](https://doi.org/10.20697/jasj.81.6_393)
 
-### **2022**
-1. 今村 賢治, 越前谷 博, 江原 暉将, 後藤 功雄, **須藤 克仁**, 園尾 聡, 綱川 隆司, 中澤 敏明, 二宮 崇, 王 向莉, 特許機械翻訳の課題解決に向けた機械翻訳技術解説, *自然言語処理*, Vol. 29, Vol. 3, pp. 925–985, 2022 [[link]](https://doi.org/10.5715/jnlp.29.925)
+## 2022
+1. 今村 賢治, 越前谷 博, 江原 暉将, 後藤 功雄, **須藤 克仁**, 園尾 聡, 綱川 隆司, 中澤 敏明, 二宮 崇, 王 向莉, 特許機械翻訳の課題解決に向けた機械翻訳技術解説, *自然言語処理*, Vol. 29, No. 3, pp. 925–985, 2022 [[link]](https://doi.org/10.5715/jnlp.29.925)
 1. 土肥 康輔, **須藤 克仁**, 中村 哲, NAIST同時通訳コーパスの構築：翻訳字幕との比較と通訳経験年数に基づく分析, *日本通訳翻訳学会 第23回年次大会*, 2022
 
-### **2021**
+## 2021
 1. 石橋 陽一, 横井 祥, **須藤 克仁**, 中村 哲, 学習済み埋め込み空間における集合演算, *第24回情報論的学習理論ワークショップ (IBIS 2021*, 2021
 1. 石橋陽一, 横井祥, **須藤克仁**, 中村哲, 量子論理に基づく単語埋込集合間の論理演算, *NLP若手の会 (YANS) 第16回シンポジウム*, 2021
 
-### **2020**
+## 2020
 1. **Katsuhito Sudoh**, Takatomo Kano, Sashi Novitasari, Tomoya Yanagita, Sakriani Sakti, Satoshi Nakamura, Simultaneous Speech-to-Speech Translation System with Neural Incremental ASR, MT, and TTS, *arXiv*, Vol. 2011.04845, 2020 [[link]](https://dblp.org/rec/journals/corr/abs-2011-04845)
 
-### **2019**
-1. Satoshi Nakamura, **Katsuhito Sudoh**, Sakriani Sakti, Towards machine speech-to-speech translation, *Revista Tradumatica*, Vol. 17, pp. 81–87, 2019 [[link]](https://doi.org/10.5565/rev/tradumatica.238)
+## 2019
+1. Satoshi Nakamura, **Katsuhito Sudoh**, Sakriani Sakti, Towards machine speech-to-speech translation, *Revista Tradumatica*, No. 17, pp. 81–87, 2019 [[link]](https://doi.org/10.5565/rev/tradumatica.238)
 1. **須藤 克仁**, 講演音声の同時翻訳：翻訳技術と同時通訳コーパスの収集, *次世代音声言語研究シンポジウム2019*, 2019
 1. Yoichi Ishibashi, **Katsuhito Sudoh**, Koichiro Yoshino, Satoshi Nakamura, Reflection-based Word Attribute Transfer, *Third International Workshop on Symbolic-Neural Learning (SNL2019)*, 2019
-1. **須藤 克仁**, ニューラル機械翻訳の進展 —系列変換モデルの進化とその応用—, *人工知能*, Vol. 34, Vol. 4, pp. 437–445, 2019 [[link]](https://doi.org/10.11517/jjsai.34.4_437)
+1. **須藤 克仁**, ニューラル機械翻訳の進展 —系列変換モデルの進化とその応用—, *人工知能*, Vol. 34, No. 4, pp. 437–445, 2019 [[link]](https://doi.org/10.11517/jjsai.34.4_437)
 1. Johanes Effendi, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Enhancing Neural Machine Translation with Image-based Paraphrase Augmentation, *Proceedings of the 25th Annual Meeting of the Association for Natural Language Processing*, pp. 261–263, 2019
 
-### **2016**
+## 2016
 1. **須藤 克仁**, 論文に書けなかった特許翻訳データの前処理, *言語処理学会第22回年次大会ワークショップ：論文に書かない（書けない）自然言語処理*, 2016
 
-### **2014**
+## 2014
 1. **須藤 克仁**, 鈴木 潤, 秋葉 泰弘, 塚田 元, 永田 昌明, 英中韓から日本語への特許文向け統計翻訳 -高精度言語解析と事前並べ替えによる高精度な特許翻訳システムの構築, *Japio YEAR BOOK 2014*, pp. 262–267, 2014
 
-### **2013**
-1. Masaaki Nagata, **Katsuhito Sudoh**, Jun Suzuki, Yasuhiro Akiba, Tsutomu Hirao, Hajime Tsukada, Recent innovations in NTT's statistical machine translation, *NTT Technical Review*, Vol. 11, Vol. 12, 2013 [[link]](http://www.scopus.com/inward/record.url?eid=2-s2.0-84890919928&partnerID=MN8TOARS)
+## 2013
+1. Masaaki Nagata, **Katsuhito Sudoh**, Jun Suzuki, Yasuhiro Akiba, Tsutomu Hirao, Hajime Tsukada, Recent innovations in NTT's statistical machine translation, *NTT Technical Review*, Vol. 11, No. 12, 2013 [[link]](http://www.scopus.com/inward/record.url?eid=2-s2.0-84890919928&partnerID=MN8TOARS)
 1. **須藤 克仁**, 鈴木 潤, 塚田 元, 永田 昌明, 星野 翔, 宮尾 祐介, 語順の入れ替えに着目した特許の統計翻訳 -事前・事後並べ替えによる高精度な英日・日英翻訳, *Japio YEAR BOOK 2013*, pp. 292–296, 2013
 
-### **2009**
-1. 堀 貴明, **須藤 克仁**, 塚田 元, 中村 篤, 世界メディアブラウザ, *NTT技術ジャーナル*, Vol. 21, Vol. 5, 2009
-1. Hori, T., Sudoh, K., Tsukada, H., Nakamura, A., World-Wide Media Browser - Multilingual audio-visual content retrieval and browsing system, *NTT Technical Review*, Vol. 7, Vol. 2, 2009 [[link]](http://www.scopus.com/inward/record.url?eid=2-s2.0-60949090683&partnerID=MN8TOARS)
+## 2009
+1. 堀 貴明, **須藤 克仁**, 塚田 元, 中村 篤, 世界メディアブラウザ, *NTT技術ジャーナル*, Vol. 21, No. 5, 2009
+1. Hori, T., Sudoh, K., Tsukada, H., Nakamura, A., World-Wide Media Browser - Multilingual audio-visual content retrieval and browsing system, *NTT Technical Review*, Vol. 7, No. 2, 2009 [[link]](http://www.scopus.com/inward/record.url?eid=2-s2.0-60949090683&partnerID=MN8TOARS)
 
-### **2008**
-1. 堀 貴明, **須藤 克仁**, 塚田 元, 中村 篤, 世界中の音・映像コンテンツを日本語で視聴する技術, *ITUジャーナル*, Vol. 38, Vol. 8, pp. 10–12, 2008
+## 2008
+1. 堀 貴明, **須藤 克仁**, 塚田 元, 中村 篤, 世界中の音・映像コンテンツを日本語で視聴する技術, *ITUジャーナル*, Vol. 38, No. 8, pp. 10–12, 2008

@@ -1,6 +1,7 @@
 +++
 identifier = 'research__speech'
 title = '音声処理'
+description = 'Lab4SLCの音声認識と音声合成に関する研究を紹介します。'
 type = 'docs'
 icon = 'fa-solid fa-microphone-lines'
 parent = 'research'
@@ -8,11 +9,11 @@ weight = 21
 hide_summary = true
 +++
 
-## **音声認識**
+## 音声認識
 ### 音声認識時の書き言葉への整形
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/matsufuji.mp4" >}}
+    {{< video src="/videos/2025/matsufuji.mp4" label="松藤麻里による音声認識研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
 <ul>
@@ -25,11 +26,11 @@ hide_summary = true
 {{< /card >}}
 {{< /cardpane >}}
 
-## **音声合成**
+## 音声合成
 ### 音楽的制約による音声合成制御
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/sato.mp4" >}}
+    {{< video src="/videos/2025/sato.mp4" label="佐藤優芽による音声合成研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
 <ul>

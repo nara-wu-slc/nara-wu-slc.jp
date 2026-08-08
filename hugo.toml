@@ -20,16 +20,14 @@ disable = false
 dir = ":cacheDir/images"
 
 [params]
-content_max_width = "50vw"
 toc_root = false
+offlineSearch = true
+offlineSearchMaxResults = 20
+offlineSearchSummaryLength = 160
 
 [params.copyright]
 authors = "Lab4SLC, Nara Women's University"
 from_year = 2024
-
-[params.docs]
-toc_level = 1
-toc_in_sidebar = true
 
 [params.ui]
 sidebar_menu_compact = false

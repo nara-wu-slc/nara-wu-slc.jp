@@ -1,23 +1,20 @@
 +++
 identifier = 'members'
 title = 'Members'
+description = 'Faculty members, graduate students, undergraduate students, and alumni of Lab4SLC.'
 type = 'docs'
 icon = 'fa-solid fa-people-group'
 weight = 30
 +++
 
-## **Faculty**
+## Faculty
 {{< cardpane >}}
     {{< card title="**Katsuhito Sudoh**" footer="Professor" >}}
         {{< figure src="images/members/sudoh.jpg" class="card-img" alt="Katsuhito Sudoh">}}
     {{< /card >}}
-    {{< card >}}
-    {{< /card >}}
-    {{< card >}}
-    {{< /card >}}
 {{< /cardpane >}}
 
-## **Graduate Students**
+## Graduate Students
 {{< cardpane >}}
     {{< card title="**Mari Matsufuji**" footer="Second-year master's student">}}
     {{< /card >}}
@@ -39,19 +36,15 @@ weight = 30
     {{< /card >}}
     {{< card title="**Aoba Yamada**" footer="Second-year master's student">}}
     {{< /card >}}
-    {{< card >}}
-    {{< /card >}}
 {{< /cardpane >}}
 {{< cardpane >}}
     {{< card title="**Ren Yokoyama**" footer="First-year master's student">}}
     {{< /card >}}
     {{< card title="**Aomi Yoneda**" footer="First-year master's student">}}
     {{< /card >}}
-    {{< card >}}
-    {{< /card >}}
 {{< /cardpane >}}
 
-## **Undergraduate Students**
+## Undergraduate Students
 {{< cardpane >}}
     {{< card title="**Shinko Bazan**" footer="Fourth-year undergraduate student">}}
     {{< /card >}}
@@ -65,16 +58,12 @@ weight = 30
     {{< /card >}}
     {{< card title="**Rinka Higashiura**" footer="Fourth-year undergraduate student">}}
     {{< /card >}}
-    {{< card >}}
-    {{< /card >}}
 {{< /cardpane >}}
 
-## **Alumni**
+## Alumni
 {{< cardpane >}}
     {{< card title="**Yumeka Kuze**" footer="Mar. 2025, Undergraduate">}}
     {{< /card >}}
     {{< card title="**Ayaka Idehira**" footer="Mar. 2026, Undergraduate">}}
-    {{< /card >}}
-    {{< card >}}
     {{< /card >}}
 {{< /cardpane >}}

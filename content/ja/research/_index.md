@@ -1,6 +1,7 @@
 +++
 identifier = 'research'
 title = '研究'
+description = 'Lab4SLCの音声処理、言語処理、コミュニケーションに関する研究と研究業績を紹介します。'
 type = 'docs'
 icon = 'fa-solid fa-book-open'
 weight = 20
@@ -25,4 +26,3 @@ weight = 20
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-

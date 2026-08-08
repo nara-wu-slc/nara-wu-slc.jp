@@ -6,8 +6,8 @@ description = "Studying Human Languages in Nara Women's University"
 
 {{< blocks/lead color="primary" >}}
 {{< figure src="images/logo-nwu.svg" alt="Lab4SLC Logo" >}}
-<h1 style="color: white; font-size: 200%; font-weight: bold;">Nara Women's University</h1>
-<h1 style="color: white; font-size: 250%; font-weight: bolder;">Laboratory for Speech, Language, and Communication</h1>
+<p class="home-affiliation">Nara Women's University</p>
+<h1 class="home-title">Laboratory for Speech, Language, and Communication</h1>
 {{< /blocks/lead >}}
 
 {{< blocks/section color="white" type="row" >}}
@@ -37,4 +37,3 @@ Contact to Lab4SLC
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
-
