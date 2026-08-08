@@ -61,6 +61,7 @@ hugo --gc --minify
 python3 scripts/achievements.py
 ```
 
+
 生成された `content/*/research/publications/*.md` はコミットします。各ページの年見出しは
 Docsyの右側の目次に自動的に表示されます。
 
