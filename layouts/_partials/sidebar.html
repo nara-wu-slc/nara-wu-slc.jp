@@ -1,0 +1,23 @@
+{{/*
+  Keep the whole site tree visible from docs pages. Docsy normally uses the
+  current first-level section as the sidebar root, which hides sibling pages.
+  This local override changes only the root passed to Docsy's sidebar tree.
+*/}}
+{{ if partial "chrome-render.html" (dict "page" . "region" "sidebar") -}}
+  {{ $defaultArgs := partial "sidebar-args.html" . -}}
+  {{ $args := dict
+      "context" .
+      "cacheSidebar" $defaultArgs.cacheSidebar
+      "sidebarRoot" .Site.Home
+      "sidebarRootID" .Site.Home.RelPermalink
+      "navRoot" .Site.Home
+      "scoped" false
+  -}}
+  {{ if $args.cacheSidebar -}}
+    {{ partialCached "sidebar-tree.html" $args $args.sidebarRootID -}}
+  {{ else -}}
+    {{ partial "sidebar-tree.html" $args -}}
+  {{ end -}}
+{{ else -}}
+  <div class="td-sidebar-chrome-placeholder" data-nav-donor="{{ .Site.Home.RelPermalink }}"></div>
+{{- end -}}

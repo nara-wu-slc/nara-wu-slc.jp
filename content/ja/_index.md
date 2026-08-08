@@ -1,5 +1,6 @@
 +++
 title = "奈良女子大学 Lab4SLC"
+linkTitle = "トップ"
 description = "奈良女子大学で「ことば」に関する研究をしています"
 +++
 

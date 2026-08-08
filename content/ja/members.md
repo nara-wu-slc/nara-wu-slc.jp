@@ -8,62 +8,35 @@ weight = 30
 +++
 
 ## 教員
-{{< cardpane >}}
-    {{< card title="**須藤 克仁**" subtitle="Katsuhito Sudoh" footer="教授">}}
-        {{< figure src="images/members/sudoh.jpg" class="card-img" alt="Katsuhito Sudoh" >}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid class="member-grid--faculty" >}}
+  {{< member name="須藤 克仁" name_alt="Katsuhito Sudoh" role="教授" image="/images/members/sudoh.jpg" alt="須藤克仁" >}}
+{{< /member-grid >}}
 
 ## 大学院生
-{{< cardpane >}}
-    {{< card title="**松藤 麻里**" subtitle="Mari Matsufuji" footer="博士前期課程2年">}}
-    {{< /card >}}
-    {{< card title="**長瀬 結香**" subtitle="Yuka Nagase" footer="博士前期課程2年">}}
-    {{< /card >}}
-    {{< card title="**小椋 柚芽**" subtitle="Yume Ogura" footer="博士前期課程2年">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**岡崎 ひかり**" subtitle="Hikari Okazaki" footer="博士前期課程2年">}}
-    {{< /card >}}
-    {{< card title="**佐藤 優芽**" subtitle="Yume Sato" footer="博士前期課程2年">}}
-    {{< /card >}}
-    {{< card title="**沢田 詩織**" subtitle="Shiori Sawada" footer="博士前期課程2年">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**髙畠 暖佳**" subtitle="Honoka Takabatake" footer="博士前期課程2年">}}
-    {{< /card >}}
-    {{< card title="**山田 葵葉**" subtitle="Aoba Yamada" footer="博士前期課程2年">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**横山 れん**" subtitle="Ren Yokoyama" footer="博士前期課程1年">}}
-    {{< /card >}}
-    {{< card title="**米田 碧弥**" subtitle="Aomi Yoneda" footer="博士前期課程1年">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="松藤 麻里" name_alt="Mari Matsufuji" role="博士前期課程2年" >}}
+  {{< member name="長瀬 結香" name_alt="Yuka Nagase" role="博士前期課程2年" >}}
+  {{< member name="小椋 柚芽" name_alt="Yume Ogura" role="博士前期課程2年" >}}
+  {{< member name="岡崎 ひかり" name_alt="Hikari Okazaki" role="博士前期課程2年" >}}
+  {{< member name="佐藤 優芽" name_alt="Yume Sato" role="博士前期課程2年" >}}
+  {{< member name="沢田 詩織" name_alt="Shiori Sawada" role="博士前期課程2年" >}}
+  {{< member name="髙畠 暖佳" name_alt="Honoka Takabatake" role="博士前期課程2年" >}}
+  {{< member name="山田 葵葉" name_alt="Aoba Yamada" role="博士前期課程2年" >}}
+  {{< member name="横山 れん" name_alt="Ren Yokoyama" role="博士前期課程1年" >}}
+  {{< member name="米田 碧弥" name_alt="Aomi Yoneda" role="博士前期課程1年" >}}
+{{< /member-grid >}}
 
 ## 学部生
-{{< cardpane >}}
-    {{< card title="**波山 慎子**" subtitle="Shinko Bazan" footer="学部4年">}}
-    {{< /card >}}
-    {{< card title="**神山 佳穂**" subtitle="Kaho Kamiyama" footer="学部4年">}}
-    {{< /card >}}
-    {{< card title="**片岡 春陽**" subtitle="Haruhi Kataoka" footer="学部4年">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**永山 涼花**" subtitle="Suzuka Nagayama" footer="学部4年">}}
-    {{< /card >}}
-    {{< card title="**東浦 凛佳**" subtitle="Rinka Higashiura" footer="学部4年">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="波山 慎子" name_alt="Shinko Bazan" role="学部4年" >}}
+  {{< member name="神山 佳穂" name_alt="Kaho Kamiyama" role="学部4年" >}}
+  {{< member name="片岡 春陽" name_alt="Haruhi Kataoka" role="学部4年" >}}
+  {{< member name="永山 涼花" name_alt="Suzuka Nagayama" role="学部4年" >}}
+  {{< member name="東浦 凛佳" name_alt="Rinka Higashiura" role="学部4年" >}}
+{{< /member-grid >}}
 
 ## 卒業生
-{{< cardpane >}}
-    {{< card title="**久世 夢加**" subtitle="Yumeka Kuze" footer="2025年3月 学部卒業">}}
-    {{< /card >}}
-    {{< card title="**井手平 彩夏**" subtitle="Ayaka Idehira" footer="2026年3月 学部卒業">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="久世 夢加" name_alt="Yumeka Kuze" role="2025年3月 学部卒業" >}}
+  {{< member name="井手平 彩夏" name_alt="Ayaka Idehira" role="2026年3月 学部卒業" >}}
+{{< /member-grid >}}

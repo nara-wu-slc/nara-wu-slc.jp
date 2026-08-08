@@ -1,0 +1,29 @@
+{{- $name := .Get "name" -}}
+{{- if not $name -}}
+  {{- errorf "Member 'name' must be supplied" -}}
+{{- end -}}
+{{- $nameAlt := .Get "name_alt" -}}
+{{- $role := .Get "role" -}}
+{{- $image := .Get "image" -}}
+{{- $alt := .Get "alt" | default $name -}}
+{{- $imageResource := false -}}
+{{- with $image -}}
+  {{- $imageResource = resources.Get (strings.TrimPrefix "/" .) -}}
+{{- end -}}
+<article class="member-card{{ with $image }} member-card--with-photo{{ end }}">
+  {{- with $image }}
+  <img class="member-card__photo"
+    src="{{ with $imageResource }}{{ .RelPermalink }}{{ else }}{{ . | relURL }}{{ end }}"
+    alt="{{ $alt }}"
+    {{- with $imageResource }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}>
+  {{- end }}
+  <div class="member-card__body">
+    <h3 class="member-card__name">{{ $name }}</h3>
+    {{- with $nameAlt }}
+    <p class="member-card__name-alt">{{ . }}</p>
+    {{- end }}
+  </div>
+  {{- with $role }}
+  <p class="member-card__role">{{ . }}</p>
+  {{- end }}
+</article>

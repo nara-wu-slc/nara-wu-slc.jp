@@ -8,62 +8,35 @@ weight = 30
 +++
 
 ## Faculty
-{{< cardpane >}}
-    {{< card title="**Katsuhito Sudoh**" footer="Professor" >}}
-        {{< figure src="images/members/sudoh.jpg" class="card-img" alt="Katsuhito Sudoh">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid class="member-grid--faculty" >}}
+  {{< member name="Katsuhito Sudoh" role="Professor" image="/images/members/sudoh.jpg" alt="Katsuhito Sudoh" >}}
+{{< /member-grid >}}
 
 ## Graduate Students
-{{< cardpane >}}
-    {{< card title="**Mari Matsufuji**" footer="Second-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Yuka Nagase**" footer="Second-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Yume Ogura**" footer="Second-year master's student">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**Hikari Okazaki**" footer="Second-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Yume Sato**" footer="Second-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Shiori Sawada**" footer="Second-year master's student">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**Honoka Takabatake**" footer="Second-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Aoba Yamada**" footer="Second-year master's student">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**Ren Yokoyama**" footer="First-year master's student">}}
-    {{< /card >}}
-    {{< card title="**Aomi Yoneda**" footer="First-year master's student">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="Mari Matsufuji" role="Second-year master's student" >}}
+  {{< member name="Yuka Nagase" role="Second-year master's student" >}}
+  {{< member name="Yume Ogura" role="Second-year master's student" >}}
+  {{< member name="Hikari Okazaki" role="Second-year master's student" >}}
+  {{< member name="Yume Sato" role="Second-year master's student" >}}
+  {{< member name="Shiori Sawada" role="Second-year master's student" >}}
+  {{< member name="Honoka Takabatake" role="Second-year master's student" >}}
+  {{< member name="Aoba Yamada" role="Second-year master's student" >}}
+  {{< member name="Ren Yokoyama" role="First-year master's student" >}}
+  {{< member name="Aomi Yoneda" role="First-year master's student" >}}
+{{< /member-grid >}}
 
 ## Undergraduate Students
-{{< cardpane >}}
-    {{< card title="**Shinko Bazan**" footer="Fourth-year undergraduate student">}}
-    {{< /card >}}
-    {{< card title="**Kaho Kamiyama**" footer="Fourth-year undergraduate student">}}
-    {{< /card >}}
-    {{< card title="**Haruhi Kataoka**" footer="Fourth-year undergraduate student">}}
-    {{< /card >}}
-{{< /cardpane >}}
-{{< cardpane >}}
-    {{< card title="**Suzuka Nagayama**" footer="Fourth-year undergraduate student">}}
-    {{< /card >}}
-    {{< card title="**Rinka Higashiura**" footer="Fourth-year undergraduate student">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="Shinko Bazan" role="Fourth-year undergraduate student" >}}
+  {{< member name="Kaho Kamiyama" role="Fourth-year undergraduate student" >}}
+  {{< member name="Haruhi Kataoka" role="Fourth-year undergraduate student" >}}
+  {{< member name="Suzuka Nagayama" role="Fourth-year undergraduate student" >}}
+  {{< member name="Rinka Higashiura" role="Fourth-year undergraduate student" >}}
+{{< /member-grid >}}
 
 ## Alumni
-{{< cardpane >}}
-    {{< card title="**Yumeka Kuze**" footer="Mar. 2025, Undergraduate">}}
-    {{< /card >}}
-    {{< card title="**Ayaka Idehira**" footer="Mar. 2026, Undergraduate">}}
-    {{< /card >}}
-{{< /cardpane >}}
+{{< member-grid >}}
+  {{< member name="Yumeka Kuze" role="Mar. 2025, Undergraduate" >}}
+  {{< member name="Ayaka Idehira" role="Mar. 2026, Undergraduate" >}}
+{{< /member-grid >}}

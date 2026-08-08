@@ -1,5 +1,6 @@
 +++
 title = "Lab4SLC, Nara Women's University"
+linkTitle = "Home"
 description = "Studying Human Languages in Nara Women's University"
 +++
 
