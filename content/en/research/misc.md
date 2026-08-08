@@ -7,6 +7,7 @@ icon = 'fa-solid fa-list'
 parent = 'Research'
 weight = 24
 hide_summary = true
+toc_hide = true
 +++
 
 Lab4SLC also explores related interdisciplinary topics beyond the main speech, language, and communication areas.

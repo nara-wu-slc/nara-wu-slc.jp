@@ -1,6 +1,6 @@
 +++
 identifier = 'research_publications_reviewed_conf'
-title = 'Reviewed Conference/Workshop Papers'
+title = 'Peer-Reviewed Conference and Workshop Papers'
 description = 'Peer-reviewed international conference and workshop papers listed by year.'
 type = 'docs'
 icon = 'fa-solid fa-file-lines'
@@ -34,19 +34,21 @@ hide_summary = true
 1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Neural Machine Translation with Prefix Alignment, *Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT 2022)*, pp. 22–31, 2022 [[link]](https://doi.org/10.18653/v1/2022.iwslt-1.3)
 
 ## 2021
+1. Kohichi Takai, Gen Hattori, Akio Yoneyama, Keiji Yasuda, **Katsuhito Sudoh**, Satoshi Nakamura, Named Entity-Factored Transformer for Proper Noun Translation, *Proceedings of the 18th International Conference on Natural Language Processing (ICON 2021)*, pp. 7–11, 2021
 1. Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS, *Proceedings of the 24th Conference of the Oriental COCOSDA*, pp. 186–192, 2021
-1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Neural Machine Translation with Constituent Label Prediction., *Proceedings of the Sixth Conference on Machine Translation (WMT)*, pp. 1130–1140, 2021 [[link]](https://dblp.org/rec/journals/corr/abs-2110-13480)
+1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Neural Machine Translation with Constituent Label Prediction, *Proceedings of the Sixth Conference on Machine Translation (WMT)*, pp. 1130–1140, 2021 [[link]](https://dblp.org/rec/journals/corr/abs-2110-13480)
 1. Hirotaka Tokuyama, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Transcribing Paralinguistic Acoustic Cues to Target Language Text in Transformer-Based Speech-to-Text Translation, *Proceedings of Interspeech 2021*, pp. 2262–2266, 2021 [[link]](https://doi.org/10.21437/interspeech.2021-1020)
 1. Yuka Ko, **Katsuhito Sudoh**, Sakriani Sakti, Satoshi Nakamura, ASR Posterior-Based Loss for Multi-Task End-to-End Speech Translation, *Proceedings of Interspeech 2021*, pp. 2272–2276, 2021 [[link]](https://doi.org/10.21437/interspeech.2021-1105)
-1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, Large-Scale English-Japanese Simultaneous Interpretation Corpus: Construction and Analyses with Sentence-Aligned Data., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 226–235, 2021 [[link]](https://dblp.org/rec/conf/iwslt/DoiSN21)
-1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, On Knowledge Distillation for Translating Erroneous Speech Transcriptions., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 198–205, 2021 [[link]](https://dblp.org/rec/conf/iwslt/FukudaSN21)
+1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, Large-Scale English-Japanese Simultaneous Interpretation Corpus: Construction and Analyses with Sentence-Aligned Data, *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 226–235, 2021 [[link]](https://dblp.org/rec/conf/iwslt/DoiSN21)
+1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, On Knowledge Distillation for Translating Erroneous Speech Transcriptions, *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 198–205, 2021 [[link]](https://dblp.org/rec/conf/iwslt/FukudaSN21)
 1. Shohei Tanaka, Koichiro Yoshino, **Katsuhito Sudoh**, Satoshi Nakamura, ARTA: Collection and Classification of Ambiguous Requests and Thoughtful Actions, *Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2021)*, pp. 77–88, 2021 [[link]](https://dblp.org/rec/conf/sigdial/TanakaYSN21)
 1. **Katsuhito Sudoh**, Kosuke Takahashi, Satoshi Nakamura, Is This Translation Error Critical?: Classification-Based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors, *Proceedings of the Workshop on Human Evaluation of NLP Systems (HumEval)*, pp. 46–55, 2021 [[link]](https://aclanthology.org/2021.humeval-1.5/)
+1. Hour Kaing, Chenchen Ding, **Katsuhito Sudoh**, Masao Utiyama, Eiichiro Sumita, Satoshi Nakamura, Multi-Source Cross-Lingual Constituency Parsing, *Proceedings of the 18th International Conference on Natural Language Processing (ICON 2021)*, pp. 341–346, 2021 [[link]](https://dblp.org/rec/conf/icon-nlp/KaingDSUS021)
 
 ## 2020
 1. Yui Oka, Katsuki Chousa, **Katsuhito Sudoh**, Satoshi Nakamura, Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings, *Proceedings of the 28th International Conference on Computational Linguistics*, pp. 3580–3585, 2020
 1. Koichiro Yoshino, Kana Ikeuchi, **Katsuhito Sudoh**, Satoshi Nakamura, Improving Spoken Language Understanding by Wisdom of Crowds, *Proceedings of the 28th International Conference on Computational Linguistics*, pp. 2606–2612, 2020
-1. Haruko Yagura, Hiroki Tanaka, Taiki Kinoshita, Hiroki Watanabe, Shunnosuke Motomura, **Katsuhito Sudoh**, Satoshi Nakamura, Analysis of selective attention processing on experienced simultaneous interpreters using EEG phase synchronization., *Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, pp. 66–69, 2020 [[link]](https://doi.org/10.1109/EMBC44109.2020.9175786)
+1. Haruko Yagura, Hiroki Tanaka, Taiki Kinoshita, Hiroki Watanabe, Shunnosuke Motomura, **Katsuhito Sudoh**, Satoshi Nakamura, Analysis of selective attention processing on experienced simultaneous interpreters using EEG phase synchronization, *Proceedings of the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, pp. 66–69, 2020 [[link]](https://doi.org/10.1109/EMBC44109.2020.9175786)
 1. Kosuke Takahashi, **Katsuhito Sudoh**, Satoshi Nakamura, Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model, *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, pp. 3553–3558, 2020 [[link]](https://doi.org/10.18653/v1/2020.acl-main.327)
 1. Yoichi Ishibashi, **Katsuhito Sudoh**, Koichiro Yoshino, Satoshi Nakamura, Reflection-based Word Attribute Transfer, *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop*, pp. 51–58, 2020 [[link]](https://doi.org/10.18653/v1/2020.acl-srw.8)
 
@@ -74,7 +76,7 @@ hide_summary = true
 1. Xun Wang, **Katsuhito Sudoh**, Masaaki Nagata, Empty Category Detection With Joint Context-Label Embeddings, *Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pp. 263–271, 2015
 
 ## 2014
-1. Graham Neubig, **Katsuhito Sudoh**, Yusuke Oda, Kevin Duh, Hajime Tsukada, Masaaki Nagata, The NAIST-NTT TED talk treeban, *roceedings of the 11th International Workshop on Spoken Language Translation*, pp. 265–270, 2014
+1. Graham Neubig, **Katsuhito Sudoh**, Yusuke Oda, Kevin Duh, Hajime Tsukada, Masaaki Nagata, The NAIST-NTT TED talk treebank, *Proceedings of the 11th International Workshop on Spoken Language Translation (IWSLT 2014)*, pp. 265–270, 2014
 1. **Katsuhito Sudoh**, Masaaki Nagata, Shinsuke Mori, Tatsuya Kawahara, Japanese-to-English Patent Translation System based on Domain-adapted Word Segmentation and Post-ordering, *Proceedings of the eleventh conference of the Association for Machine Translation in the Americas, Vancouver*, pp. 234–248, 2014
 
 ## 2013
@@ -87,7 +89,7 @@ hide_summary = true
 
 ## 2012
 1. Xianchao Wu, **Katsuhito Sudoh**, Kevin Duh, Hajime Tsukada, Masaaki Nagata, A Comparative Study of Target Dependency Structures for Statistical Machine Translation, *Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)*, pp. 100–104, 2012
-1. Kevin Duh, **Katsuhito Sudoh**, Xianchao Wu, Hajime Tsukada, Masaaki Nagata, Learning to Translate with Multiple Objectives, *Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pp. 1062–103, 2012
+1. Kevin Duh, **Katsuhito Sudoh**, Xianchao Wu, Hajime Tsukada, Masaaki Nagata, Learning to Translate with Multiple Objectives, *Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pp. 1–10, 2012
 1. Hirotoshi Taira, **Katsuhito Sudoh**, Masaaki Nagata, Zero Pronoun Resolution can Improve the Quality of J-E Translation, *Proceedings of the Sixth Workshop on Syntax, Semantics and Structure in Statistical Translation*, pp. 111–118, 2012
 1. Dan Han, **Katsuhito Sudoh**, Xianchao Wu, Kevin Duh, Hajime Tsukada, Masaaki Nagata, Head Finalization Reordering for Chinese-to-Japanese Machine Translation, *Proceedings of the Sixth Workshop on Syntax, Semantics and Structure in Statistical Translation*, pp. 57–66, 2012
 

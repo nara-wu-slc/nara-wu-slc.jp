@@ -9,6 +9,6 @@ weight = 23
 hide_summary = true
 +++
 
-Lab4SLC studies technologies that support communication between people and between people and computers through language.
+Lab4SLC studies human–human and human–computer communication through language.
 
 See the [publication list](../publications/) for related work. Additional research highlights will be added to this page.

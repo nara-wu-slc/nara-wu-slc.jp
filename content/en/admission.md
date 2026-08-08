@@ -7,11 +7,12 @@ icon = 'fa-solid fa-graduation-cap'
 weight = 40
 +++
 
-## Enrollment in Nara Women's University
-Detailed information for enrollment in Nara Women's University is available in [Admission](https://www.nara-wu.ac.jp/nwu/en/admission/).
-- Undergraduates
-- Graduate course (Master's program)
-- Graduate course (Doctoral program)
+## Admission to Nara Women's University
+For details, see Nara Women's University's [Admissions website](https://www.nara-wu.ac.jp/nwu/en/admission/).
+- First-year undergraduate admission
+- Third-year undergraduate transfer admission
+- Master's program admission
+- Doctoral program admission
 
 Our laboratory belongs to:
 - Life Computing and Communication Technology Course, Department of Culture and Computer Sciences, Faculty of Human Life and Environment (Undergraduate program)
@@ -20,14 +21,15 @@ Our laboratory belongs to:
 
 
 ## Joining Lab4SLC
-Undergraduate students are assigned to a laboratory starting from the autumn semester of their third year, based on the results of a preference survey conducted in the spring semester.
-Graduate students select their preferred field of study (laboratory) at the time of application for the entrance examination and are assigned to that laboratory upon enrollment.
+Undergraduate students join a laboratory in the autumn semester of their third year, following a preference survey in the spring. Graduate applicants select their intended laboratory when applying and join it upon enrollment.
 
-## Visits and Consultation for Prospective Students
-We accept requests for lab visits and consultations for those interested in pursuing further studies at any time.
-Please feel free to [contact us](contact).
-We also welcome working professionals as students.
+## Who We Are Looking For
+We welcome students who:
+- Are interested in language and language technologies
+- Want to work with both written and spoken language
+- Want to develop AI technologies or use them to create innovative applications
 
-**Important Note:** Currently, the education and research activities in our lab are conducted in Japanese.
-Therefore, students in the Undergraduate and the Master's programs are required to have Japanese language proficiency equivalent to JLPT N1.
-It is recommended that applicants possess a certain level of Japanese language proficiency even for the Doctoral program.
+## Laboratory Visits and Consultations for Prospective Students
+Prospective students are welcome to [contact us](contact) at any time to arrange a laboratory visit or discuss graduate study. Applications from working professionals are also welcome.
+
+**Important Note:** Teaching and day-to-day research activities in Lab4SLC are conducted primarily in Japanese. As a laboratory requirement, undergraduate and master's students must therefore have Japanese proficiency equivalent to JLPT N1 to participate effectively. Prospective doctoral students should contact us in advance to discuss the level of Japanese proficiency needed for their research plan.

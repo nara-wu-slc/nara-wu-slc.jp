@@ -8,15 +8,15 @@ weight = 10
 +++
 
 ## History
-- Apr. 2026    Two M1 and one B4 students joined
-- Mar. 2026    Three B4 students graduated
-- Oct. 2025    Four B3 students joined
-- Apr. 2025    Eight M1 students joined
-- Mar. 2025    Eight B4 students graduated
-- Oct. 2024    Three B3 students joined
-- Apr. 2024    Establishment (w/ Eight B4 students)
+- Apr. 2026    Two first-year master's students and one fourth-year undergraduate student joined the laboratory
+- Mar. 2026    Three fourth-year undergraduate students joined the laboratory
+- Oct. 2025    Four third-year undergraduate students joined the laboratory
+- Apr. 2025    Eight first-year master's students joined the laboratory
+- Mar. 2025    Eight fourth-year undergraduate students graduated
+- Oct. 2024    Three third-year undergraduate students joined the laboratory
+- Apr. 2024    Lab4SLC was established with eight fourth-year undergraduate students
 
 ## Address
-630-8506 Nara Women's University, Kitauoya Nishimachi, Nara ( [Campus Map](https://www.nara-wu.ac.jp/nwu/intro/access/campusmap/) )
-- Faculty office: E355
-- Students room: E359
+Nara Women's University, Kitauoya Nishimachi, Nara 630-8506, Japan ([Campus Map](https://www.nara-wu.ac.jp/nwu/intro/access/campusmap/))
+- Professor's office: E355
+- Student laboratory: E359

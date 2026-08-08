@@ -1,6 +1,6 @@
 +++
 identifier = 'research_publications_domestic'
-title = 'Domestic Meeting Papers'
+title = 'Domestic Conference and Research Meeting Papers'
 description = 'Domestic conference and research meeting papers listed by year.'
 type = 'docs'
 icon = 'fa-solid fa-file-lines'

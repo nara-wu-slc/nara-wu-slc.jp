@@ -10,19 +10,19 @@ weight = 20
 {{< blocks/section color="white" type="row" >}}
 
 {{% blocks/feature icon="fa-solid fa-microphone-lines" title="Speech" url="speech" %}}
-Research on Speech Processing
+Research on speech processing
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-language" title="Language" url="language" %}}
-Research on Language Processing
+Research on language processing
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-comments" title="Communication" url="communication" %}}
-Research on Human Communication
+Research on human communication
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-book" title="Publication List" url="publications" %}}
-Publication list of Lab4SLC and Prof. Sudoh
+{{% blocks/feature icon="fa-solid fa-book" title="Publications" url="publications" %}}
+Publications by Lab4SLC members and Katsuhito Sudoh
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}

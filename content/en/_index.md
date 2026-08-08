@@ -1,7 +1,7 @@
 +++
 title = "Lab4SLC, Nara Women's University"
 linkTitle = "Home"
-description = "Studying Human Languages in Nara Women's University"
+description = "Research on speech, language, and communication at Nara Women's University."
 +++
 
 
@@ -14,11 +14,11 @@ description = "Studying Human Languages in Nara Women's University"
 {{< blocks/section color="white" type="row" >}}
 
 {{% blocks/feature icon="fa-solid fa-circle-info" title="About Lab4SLC" url="about" %}}
-Information about Lab4SLC
+Our history, location, and laboratory profile
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-book-open" title="Research" url="research" %}}
-Research in Lab4SLC
+Research at Lab4SLC
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-people-group" title="Members" url="members" %}}
@@ -26,7 +26,7 @@ Lab4SLC members
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-graduation-cap" title="Admission" url="admission" %}}
-Admission to Lab4SLC
+Admissions, laboratory placement, and visits
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-handshake" title="Collaboration" url="collaboration" %}}
@@ -34,7 +34,7 @@ Collaborative research and academic consultation
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-paper-plane" title="Contact" url="contact" %}}
-Contact to Lab4SLC
+Contact Lab4SLC
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}

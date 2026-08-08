@@ -8,5 +8,5 @@ weight = 60
 +++
 
 ## Contact
-- Inquiry about Lab4SLC: lab4slc-webmaster __at__ lics.nara-wu.ac.jp
+- Inquiries about Lab4SLC: lab4slc-webmaster [at] lics.nara-wu.ac.jp (replace [at] with @)
 - General information about the Life Computing and Communication Technology Course is available on its [website](https://www.nara-wu.ac.jp/life/ccs/lics/index_english.html).

@@ -13,7 +13,7 @@ CATEGORIES = {
     'journal': {
         'slug': 'journals',
         'title_ja': '学術論文誌',
-        'title_en': 'Academic Journal Articles',
+        'title_en': 'Journal Articles',
         'description_ja': '学術論文誌に掲載された研究業績を年別に掲載しています。',
         'description_en': 'Peer-reviewed journal articles listed by year.',
         'weight': 1,
@@ -21,7 +21,7 @@ CATEGORIES = {
     'reviewed_conf': {
         'slug': 'reviewed-conferences',
         'title_ja': '査読つき国際会議・ワークショップ',
-        'title_en': 'Reviewed Conference/Workshop Papers',
+        'title_en': 'Peer-Reviewed Conference and Workshop Papers',
         'description_ja': '査読つき国際会議・ワークショップの研究業績を年別に掲載しています。',
         'description_en': 'Peer-reviewed international conference and workshop papers listed by year.',
         'weight': 2,
@@ -37,15 +37,15 @@ CATEGORIES = {
     'unreviewed_conf': {
         'slug': 'unreviewed-conferences',
         'title_ja': '査読なし国際会議・ワークショップ',
-        'title_en': 'Non-reviewed Conference/Workshop Papers',
+        'title_en': 'Non-Peer-Reviewed Conference and Workshop Papers',
         'description_ja': '査読なし国際会議・ワークショップの研究業績を年別に掲載しています。',
-        'description_en': 'Non-reviewed international conference and workshop papers listed by year.',
+        'description_en': 'Non-peer-reviewed international conference and workshop papers listed by year.',
         'weight': 4,
     },
     'domestic': {
         'slug': 'domestic-meetings',
         'title_ja': '全国大会・研究会等',
-        'title_en': 'Domestic Meeting Papers',
+        'title_en': 'Domestic Conference and Research Meeting Papers',
         'description_ja': '国内の全国大会・研究会などの研究業績を年別に掲載しています。',
         'description_en': 'Domestic conference and research meeting papers listed by year.',
         'weight': 5,
@@ -53,9 +53,9 @@ CATEGORIES = {
     'misc': {
         'slug': 'miscellaneous',
         'title_ja': 'その他',
-        'title_en': 'Miscellaneous',
+        'title_en': 'Other Publications and Research Activities',
         'description_ja': 'その他の研究業績を年別に掲載しています。',
-        'description_en': 'Other research outputs listed by year.',
+        'description_en': 'Other publications and research activities listed by year.',
         'weight': 6,
     },
 }

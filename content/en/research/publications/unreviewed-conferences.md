@@ -1,7 +1,7 @@
 +++
 identifier = 'research_publications_unreviewed_conf'
-title = 'Non-reviewed Conference/Workshop Papers'
-description = 'Non-reviewed international conference and workshop papers listed by year.'
+title = 'Non-Peer-Reviewed Conference and Workshop Papers'
+description = 'Non-peer-reviewed international conference and workshop papers listed by year.'
 type = 'docs'
 icon = 'fa-solid fa-file-lines'
 parent = 'research_publications'
@@ -26,7 +26,6 @@ hide_summary = true
 ## 2021
 1. Kosuke Takahashi, Yoichi Ishibashi, **Katsuhito Sudoh**, Satoshi Nakamura, Multilingual Machine Translation Evaluation Metrics Fine-tuned on Pseudo-Negative Examples for WMT 2021 Metrics Task, *Proceedings of the Sixth Conference on Machine Translation*, pp. 1049–1052, 2021
 1. Ryo Fukuda, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, NAIST English-to-Japanese Simultaneous Translation System for IWSLT 2021 Simultaneous Text-to-text Task, *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 39–45, 2021 [[link]](https://dblp.org/rec/conf/iwslt/FukudaOKYKTDSSN21)
-1. Hour Kaing, Chenchen Ding, **Katsuhito Sudoh**, Masao Utiyama, Eiichiro Sumita, Satoshi Nakamura 0001, Multi-Source Cross-Lingual Constituency Parsing., *ICON*, pp. 341–346, 2021 [[link]](https://dblp.org/rec/conf/icon-nlp/KaingDSUS021)
 
 ## 2020
 1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, NAIST’s Machine Translation Systems for IWSLT 2020 Conversational Speech Translation Task, *Proceedings of the 17th International Conference on Spoken Language Translation*, pp. 172–177, 2020 [[link]](https://doi.org/10.18653/v1/2020.iwslt-1.21)
@@ -38,14 +37,14 @@ hide_summary = true
 1. **Katsuhito Sudoh**, Masaaki Nagata, Chinese-to-Japanese Patent Machine Translation based on Syntactic Pre-ordering for WAT 2016, *Proceedings of the 3rd Workshop on Asian Translation (WAT2016)*, pp. 211–215, 2016
 
 ## 2015
-1. **Katsuhito Sudoh**, Masaaki Nagata, Chinese-to-Japanese Patent Machine Translation based on Syntactic Pre-ordering forWAT 2015, *Proceedings of the 2nd Workshop on Asian Translation (WAT2015)*, pp. 95–98, 2015
+1. **Katsuhito Sudoh**, Masaaki Nagata, Chinese-to-Japanese Patent Machine Translation based on Syntactic Pre-ordering for WAT 2015, *Proceedings of the 2nd Workshop on Asian Translation (WAT2015)*, pp. 95–98, 2015
 
 ## 2014
 1. **Katsuhito Sudoh**, Graham Neubig, Kevin Duh, Katsuhiko Hayashi, NTT-NAIST syntax-based SMT systems for IWSLT 2014, *Proceedings of the 11th International Workshop on Spoken Language Translation*, pp. 127–133, 2014
 
 ## 2013
-1. **Katsuhito Sudoh**, Graham Neubig, Kevin Duh, Hajime Tsukada, NTT-NAIST SMT Systems for IWSLT 2013, *Proceedings of the 10th International Workshop on Spoken Language Translatio*, 2013
-1. **Katsuhito Sudoh**, Jun, Suzuki, Hajime Tsukada, Masaaki Nagata, Sho Hoshino, Yusuke Miyao, NTT-NII Statistical Machine Translation in NTCIR-10 PatentMT, *Proceedings of the 10th NTCIR Conference*, pp. 294–300, 2013
+1. **Katsuhito Sudoh**, Graham Neubig, Kevin Duh, Hajime Tsukada, NTT-NAIST SMT Systems for IWSLT 2013, *Proceedings of the 10th International Workshop on Spoken Language Translation (IWSLT 2013)*, 2013
+1. **Katsuhito Sudoh**, Jun Suzuki, Hajime Tsukada, Masaaki Nagata, Sho Hoshino, Yusuke Miyao, NTT-NII Statistical Machine Translation in NTCIR-10 PatentMT, *Proceedings of the 10th NTCIR Conference*, pp. 294–300, 2013
 
 ## 2011
 1. **Katsuhito Sudoh**, Kevin Duh, Hajime Tsukada, Masaaki Nagata, Xianchao Wu, Takuya Matsuzaki, Jun'ichi Tsujii, NTT-UT Statistical Machine Translation in NTCIR-9 PatentMT, *Proceedings of NTCIR-9 Workshop Meeting*, pp. 585–592, 2011

@@ -1,6 +1,6 @@
 +++
 identifier = 'research_publications_journal'
-title = 'Academic Journal Articles'
+title = 'Journal Articles'
 description = 'Peer-reviewed journal articles listed by year.'
 type = 'docs'
 icon = 'fa-solid fa-file-lines'
@@ -29,7 +29,7 @@ hide_summary = true
 ## 2022
 1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, Knowledge Distillation for Translating Erroneous Speech Transcriptions, *Journal of Natural Language Processing*, Vol. 29, No. 2, pp. 344–366, 2022 [[link]](https://doi.org/10.5715/jnlp.29.344)
 1. Kosuke Takahashi, **Katsuhito Sudoh**, Satoshi Nakamura, Automatic Machine Translation Evaluation using a Source and Reference Sentence with a Cross-lingual Language Model, *Journal of Natural Language Processing*, Vol. 29, No. 1, pp. 3–22, 2022
-1. Yoichi Ishibashi, Sho Yokoi, **Katsuhito Sudoh**, Satoshi Nakamura 0001, Subspace-based Set Operations on a Pre-trained Word Embedding Space., *CoRR*, Vol. abs/2210.13034, 2022 [[link]](https://doi.org/10.48550/arXiv.2210.13034)
+1. Yoichi Ishibashi, Sho Yokoi, **Katsuhito Sudoh**, Satoshi Nakamura, Subspace-based Set Operations on a Pre-trained Word Embedding Space, *CoRR*, Vol. abs/2210.13034, 2022 [[link]](https://doi.org/10.48550/arXiv.2210.13034)
 
 ## 2021
 1. Hour Kaing, Chenchen Ding, Masao Utiyama, Eiichiro Sumita, Sethserey Sam, Sopheap Seng, **Katsuhito Sudoh**, Satoshi Nakamura, Towards Tokenization and Part-of-Speech Tagging for Khmer: Data and Discussion, *ACM Transactions on Asian and Low-Resource Language Information Processing*, Vol. 20, No. 6, 2021 [[link]](https://doi.org/10.1145/3464378)

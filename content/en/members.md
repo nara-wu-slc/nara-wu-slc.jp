@@ -37,6 +37,6 @@ weight = 30
 
 ## Alumni
 {{< member-grid >}}
-  {{< member name="Yumeka Kuze" role="Mar. 2025, Undergraduate" >}}
-  {{< member name="Ayaka Idehira" role="Mar. 2026, Undergraduate" >}}
+  {{< member name="Ayaka Idehira" role="Graduated March 2026 (undergraduate)" >}}
+  {{< member name="Yumeka Kuze" role="Graduated March 2025 (undergraduate)" >}}
 {{< /member-grid >}}

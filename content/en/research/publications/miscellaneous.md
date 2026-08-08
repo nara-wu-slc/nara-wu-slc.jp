@@ -1,7 +1,7 @@
 +++
 identifier = 'research_publications_misc'
-title = 'Miscellaneous'
-description = 'Other research outputs listed by year.'
+title = 'Other Publications and Research Activities'
+description = 'Other publications and research activities listed by year.'
 type = 'docs'
 icon = 'fa-solid fa-file-lines'
 parent = 'research_publications'
