@@ -32,4 +32,7 @@ We welcome students who:
 ## Laboratory Visits and Consultations for Prospective Students
 Prospective students are welcome to [contact us](contact) at any time to arrange a laboratory visit or discuss graduate study. Applications from working professionals are also welcome.
 
+## Japanese Government (MEXT) Scholarship Applicants
+For applicants seeking admission with a Japanese Government (MEXT) Scholarship, Lab4SLC considers only applicants applying through Embassy Recommendation. We do not accept MEXT Scholarship applicants through University Recommendation.
+
 **Important Note:** Teaching and day-to-day research activities in Lab4SLC are conducted primarily in Japanese. As a laboratory requirement, undergraduate and master's students must therefore have Japanese proficiency equivalent to JLPT N1 to participate effectively. Prospective doctoral students should contact us in advance to discuss the level of Japanese proficiency needed for their research plan.
