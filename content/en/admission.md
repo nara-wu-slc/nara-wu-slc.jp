@@ -14,6 +14,8 @@ For details, see Nara Women's University's [Admissions website](https://www.nara
 - Master's program admission
 - Doctoral program admission
 
+Please note that our lab generally does not accept research students.
+
 Our laboratory belongs to:
 - Life Computing and Communication Technology Course, Department of Culture and Computer Sciences, Faculty of Human Life and Environment (Undergraduate program)
 - Life Computing and Communication Technology Course, Division of Computer Science and Environment, Graduate School of Humanities and Sciences (Master's program)
