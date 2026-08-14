@@ -22,7 +22,6 @@ hide_summary = true
 <li>トピックモデルを用いたISPA記号のクラスタリング</li>
 <li>今後の課題: より多くのデータを利用した詳細な検証</li>
 </ul>
-<div align="right">(2026年 人工知能学会全国大会)</div>
 {{< /card >}}
 {{< /cardpane >}}
 
@@ -38,7 +37,6 @@ hide_summary = true
 <li>フィラーを出力しないように追加学習することでフィラー除去を実現</li>
 <li>今後の課題: フィラー以外も対象にした広範な文字起こしの整形</li>
 </ul>
-<div align="right">(2025年 人工知能学会全国大会, 音学シンポジウム)</div>
 {{< /card >}}
 {{< /cardpane >}}
 
