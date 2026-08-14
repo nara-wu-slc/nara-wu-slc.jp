@@ -13,7 +13,7 @@ hide_summary = true
 ### The Relationship between Latency and Accuracy in Simultaneous Machine Translation
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/ogura.mp4" label="Japanese-language video introducing Yume Ogura's simultaneous machine translation research" >}}
+    {{< video src="/videos/2025/ogura.mp4" label="Japanese-language video introducing simultaneous machine translation research" >}}
 {{< /card >}}
 {{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
 <ul>
@@ -28,7 +28,7 @@ hide_summary = true
 ### Japanese-to-English Machine Translation with Reading Information
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/yamada.mp4" label="Japanese-language video introducing Aoba Yamada's Japanese-to-English machine translation research" >}}
+    {{< video src="/videos/2025/yamada.mp4" label="Japanese-language video introducing Japanese-to-English machine translation research" >}}
 {{< /card >}}
 {{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
 <ul>
@@ -44,7 +44,7 @@ hide_summary = true
 ### Data Augmentation for Japanese Named Entity Recognition
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/okazaki.mp4" label="Japanese-language video introducing Hikari Okazaki's research on Japanese named entity recognition" >}}
+    {{< video src="/videos/2025/okazaki.mp4" label="Japanese-language video introducing research on Japanese named entity recognition" >}}
 {{< /card >}}
 {{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
 <ul>
@@ -57,10 +57,25 @@ hide_summary = true
 {{< /cardpane >}}
 
 ## Applications of Natural Language Processing
+### Japanese Grammatical Error Correction
+{{< cardpane >}}
+{{< card >}}
+    {{< video src="/videos/2026/yoneda.mp4" label="Japanese-language video introducing research on Japanese grammatical error correction" >}}
+{{< /card >}}
+{{< card header="**Research Highlights**" footer="JSAI 2026 Annual Conference" >}}
+<ul>
+<li>Automatically correct grammatical errors made by beginning learners of Japanese</li>
+<li>Analyze accuracy in correcting inflectional-ending errors for <em>na</em>-adjectives (adjectival nouns)</li>
+<li>Find that correction accuracy tends to decrease for words written in hiragana</li>
+<li>Next step: evaluate Japanese grammatical error correction using large language models</li>
+</ul>
+{{< /card >}}
+{{< /cardpane >}}
+
 ### Analysis of Social Media Posts Related to Mental Health Difficulties
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/takabatake.mp4" label="Japanese-language video introducing Honoka Takabatake's research on social media analysis" >}}
+    {{< video src="/videos/2025/takabatake.mp4" label="Japanese-language video introducing research on social media analysis" >}}
 {{< /card >}}
 {{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
 <ul>
@@ -76,7 +91,7 @@ hide_summary = true
 ### Suggestions for Revising Written Text
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/sawada.mp4" label="Japanese-language video introducing Shiori Sawada's research on writing support" >}}
+    {{< video src="/videos/2025/sawada.mp4" label="Japanese-language video introducing research on writing support" >}}
 {{< /card >}}
 {{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
 <ul>

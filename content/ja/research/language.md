@@ -13,7 +13,7 @@ hide_summary = true
 ### 同時機械翻訳の遅延と精度の関係
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/ogura.mp4" label="小椋柚芽による同時機械翻訳研究の紹介動画" >}}
+    {{< video src="/videos/2025/ogura.mp4" label="同時機械翻訳研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -28,7 +28,7 @@ hide_summary = true
 ### 読み情報を追加で与える日英機械翻訳
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/yamada.mp4" label="山田葵葉による日英機械翻訳研究の紹介動画" >}}
+    {{< video src="/videos/2025/yamada.mp4" label="日英機械翻訳研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -44,7 +44,7 @@ hide_summary = true
 ### 日本語固有表現抽出のためのデータ拡張
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/okazaki.mp4" label="岡崎ひかりによる日本語固有表現抽出研究の紹介動画" >}}
+    {{< video src="/videos/2025/okazaki.mp4" label="日本語固有表現抽出研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -57,10 +57,25 @@ hide_summary = true
 {{< /cardpane >}}
 
 ## 自然言語処理応用
+### 日本語の文法誤り訂正
+{{< cardpane >}}
+{{< card >}}
+    {{< video src="/videos/2026/yoneda.mp4" label="日本語文法誤り訂正研究の紹介動画" >}}
+{{< /card >}}
+{{< card header="**研究のポイント**" footer="2026年 人工知能学会全国大会" >}}
+<ul>
+<li>日本語初学者の文法誤りを自動的に訂正</li>
+<li>ナ形容詞（形容動詞）を対象に活用語尾の誤り訂正精度を分析</li>
+<li>ひらがな表記に対して訂正精度が低下する傾向を確認</li>
+<li>今後の課題: 大規模言語モデルを用いた日本語文法誤り訂正の検証</li>
+</ul>
+{{< /card >}}
+{{< /cardpane >}}
+
 ### メンタルヘルス不調者のSNS投稿分析
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/takabatake.mp4" label="髙畠暖佳によるSNS投稿分析研究の紹介動画" >}}
+    {{< video src="/videos/2025/takabatake.mp4" label="SNS投稿分析研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>
@@ -76,7 +91,7 @@ hide_summary = true
 ### 文章の推敲提案
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/sawada.mp4" label="沢田詩織による文章推敲支援研究の紹介動画" >}}
+    {{< video src="/videos/2025/sawada.mp4" label="文章推敲支援研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
 <ul>

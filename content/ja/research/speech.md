@@ -10,10 +10,26 @@ hide_summary = true
 +++
 
 ## 音声認識
+### 動物音声認識
+{{< cardpane >}}
+{{< card >}}
+    {{< video src="/videos/2026/yokoyama.mp4" label="動物音声認識研究の紹介動画" >}}
+{{< /card >}}
+{{< card header="**研究のポイント**" footer="2026年 人工知能学会全国大会" >}}
+<ul>
+<li>ISPA (Inter-Species Phonetic Alphabet) を用いた動物音声認識結果の分析</li>
+<li>ISPAによる認識結果を用いた動物種の分類性能を検証</li>
+<li>トピックモデルを用いたISPA記号のクラスタリング</li>
+<li>今後の課題: より多くのデータを利用した詳細な検証</li>
+</ul>
+<div align="right">(2026年 人工知能学会全国大会)</div>
+{{< /card >}}
+{{< /cardpane >}}
+
 ### 音声認識時の書き言葉への整形
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/matsufuji.mp4" label="松藤麻里による音声認識研究の紹介動画" >}}
+    {{< video src="/videos/2025/matsufuji.mp4" label="音声認識研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
 <ul>
@@ -30,7 +46,7 @@ hide_summary = true
 ### 音楽的制約による音声合成制御
 {{< cardpane >}}
 {{< card >}}
-    {{< video src="/videos/2025/sato.mp4" label="佐藤優芽による音声合成研究の紹介動画" >}}
+    {{< video src="/videos/2025/sato.mp4" label="音声合成研究の紹介動画" >}}
 {{< /card >}}
 {{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
 <ul>
