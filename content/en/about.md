@@ -8,6 +8,7 @@ weight = 10
 +++
 
 ## History
+- Oct. 2026    Three fourth-year undergraduate students joined the laboratory
 - Apr. 2026    Two first-year master's students and one fourth-year undergraduate student joined the laboratory
 - Mar. 2026    Three fourth-year undergraduate students joined the laboratory
 - Oct. 2025    Four third-year undergraduate students joined the laboratory

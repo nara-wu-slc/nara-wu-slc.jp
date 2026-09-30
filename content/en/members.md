@@ -33,6 +33,9 @@ weight = 30
   {{< member name="Haruhi Kataoka" role="Fourth-year undergraduate student" >}}
   {{< member name="Suzuka Nagayama" role="Fourth-year undergraduate student" >}}
   {{< member name="Rinka Higashiura" role="Fourth-year undergraduate student" >}}
+  {{< member name="Mimi Kawasaki" role="Third-year undergraduate student" >}}
+  {{< member name="Haruna Oku" role="Third-year undergraduate student" >}}
+  {{< member name="Hina Shirotani" role="Third-year undergraduate student" >}}
 {{< /member-grid >}}
 
 ## Alumni

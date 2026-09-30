@@ -33,6 +33,9 @@ weight = 30
   {{< member name="片岡 春陽" name_alt="Haruhi Kataoka" role="学部4年" >}}
   {{< member name="永山 涼花" name_alt="Suzuka Nagayama" role="学部4年" >}}
   {{< member name="東浦 凛佳" name_alt="Rinka Higashiura" role="学部4年" >}}
+  {{< member name="奥 陽菜" name_alt="Haruna Oku" role="学部3年" >}}
+  {{< member name="川崎 文慈" name_alt="Mimi Kawasaki" role="学部3年" >}}
+  {{< member name="城谷 日菜" name_alt="Hina Shirotani" role="学部3年" >}}
 {{< /member-grid >}}
 
 ## 卒業生
