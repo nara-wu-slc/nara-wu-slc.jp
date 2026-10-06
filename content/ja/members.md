@@ -9,7 +9,7 @@ weight = 30
 
 ## 教員
 {{< member-grid class="member-grid--faculty" >}}
-  {{< member name="須藤 克仁" name_alt="Katsuhito Sudoh" role="教授" image="/images/members/sudoh.jpg" alt="須藤克仁" >}}
+  {{< member name="須藤 克仁" name_alt="Katsuhito Sudoh" role="教授" image="/images/members/sudoh.jpg" alt="須藤克仁" website="https://www.sudoh.nl/" >}}
 {{< /member-grid >}}
 
 ## 大学院生

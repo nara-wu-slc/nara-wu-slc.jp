@@ -147,6 +147,16 @@
   font-size: 0.95rem;
 }
 
+.member-card__website {
+  margin: 0.75rem 0 0;
+  font-size: 0.9rem;
+
+  a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+}
+
 .member-card__role {
   margin: 0;
   padding: 0.75rem 1rem;

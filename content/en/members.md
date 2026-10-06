@@ -9,7 +9,7 @@ weight = 30
 
 ## Faculty
 {{< member-grid class="member-grid--faculty" >}}
-  {{< member name="Katsuhito Sudoh" role="Professor" image="/images/members/sudoh.jpg" alt="Katsuhito Sudoh" >}}
+  {{< member name="Katsuhito Sudoh" role="Professor" image="/images/members/sudoh.jpg" alt="Katsuhito Sudoh" website="https://www.sudoh.nl/" >}}
 {{< /member-grid >}}
 
 ## Graduate Students

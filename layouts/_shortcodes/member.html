@@ -4,6 +4,8 @@
 {{- end -}}
 {{- $nameAlt := .Get "name_alt" -}}
 {{- $role := .Get "role" -}}
+{{- $website := .Get "website" -}}
+{{- $websiteLabel := cond (eq .Page.Language.Lang "ja") "個人Webページ" "Personal website" -}}
 {{- $image := .Get "image" -}}
 {{- $alt := .Get "alt" | default $name -}}
 {{- $imageResource := false -}}
@@ -21,6 +23,11 @@
     <h3 class="member-card__name">{{ $name }}</h3>
     {{- with $nameAlt }}
     <p class="member-card__name-alt">{{ . }}</p>
+    {{- end }}
+    {{- with $website }}
+    <p class="member-card__website">
+      <a href="{{ . }}" aria-label="{{ printf "%s (%s)" $websiteLabel $name }}">{{ $websiteLabel }}</a>
+    </p>
     {{- end }}
   </div>
   {{- with $role }}

@@ -65,6 +65,16 @@ python3 scripts/achievements.py
 生成された `content/*/research/publications/*.md` はコミットします。各ページの年見出しは
 Docsyの右側の目次に自動的に表示されます。
 
+## メンバーの個人Webページ
+
+`member` ショートコードに `website` を指定すると、名前の下に個人Webページへのリンクが表示されます。教員・学生ともに同じ形式で使用できます。指定しない場合はリンクを表示しません。
+
+```go-html-template
+{{</* member name="氏名" role="博士前期課程1年" website="https://example.com/" */>}}
+```
+
+リンクの表示名は日本語ページでは「個人Webページ」、英語ページでは「Personal website」になります。日英それぞれの `members.md` にURLを指定してください。
+
 ## 研究紹介動画
 
 `video` ショートコードでは、スクリーンリーダー向けの `label` を指定できます。
