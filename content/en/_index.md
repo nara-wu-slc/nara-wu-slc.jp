@@ -11,6 +11,10 @@ description = "Research on speech, language, and communication at Nara Women's U
 <h1 class="home-title">Laboratory for Speech, Language, and Communication</h1>
 {{< /blocks/lead >}}
 
+{{< blocks/section color="white" >}}
+{{< latest-news >}}
+{{< /blocks/section >}}
+
 {{< blocks/section color="white" type="row" >}}
 
 {{% blocks/feature icon="fa-solid fa-circle-info" title="About Lab4SLC" url="about" %}}

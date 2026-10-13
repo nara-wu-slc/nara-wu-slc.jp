@@ -11,6 +11,10 @@ description = "奈良女子大学で「ことば」に関する研究をして�
 <h1 class="home-title">音声・言語・コミュニケーション研究室</h1>
 {{< /blocks/lead >}}
 
+{{< blocks/section color="white" >}}
+{{< latest-news >}}
+{{< /blocks/section >}}
+
 {{< blocks/section color="white" type="row" >}}
 
 {{% blocks/feature icon="fa-solid fa-circle-info" title="研究室について" url="about" %}}

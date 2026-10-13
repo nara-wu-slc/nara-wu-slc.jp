@@ -26,10 +26,17 @@ Our laboratory belongs to:
 Undergraduate students join a laboratory in the autumn semester of their third year, following a preference survey in the spring. Graduate applicants select their intended laboratory when applying and join it upon enrollment.
 
 ## Who We Are Looking For
-We welcome students who:
-- Are interested in language and language technologies
-- Want to work with both written and spoken language
-- Want to develop AI technologies or use them to create innovative applications
+
+The following describes the qualities we look for in prospective master's and doctoral students. Applicants are not required to satisfy every point.
+
+- A strong interest in speech, language, and communication, together with a willingness to actively acquire the necessary knowledge and skills.
+- A positive attitude toward tackling problems with unknown answers and gaining new insights.
+- The persistence to analyze and think through why an approach works or fails.
+- Knowledge of the mathematics expected of graduate students in computer science (linear algebra, calculus and analysis, and probability and statistics), and the English skills needed to read research papers and technical documents. An undergraduate degree in computer science is not a prerequisite.
+  - Prospective doctoral students are also expected to be able to write research papers in English.
+- The ability to investigate related research in advance and explain a concrete research problem in a research proposal and an oral examination.
+- The programming skills needed to implement techniques they have devised themselves or found in research papers.
+  - The ability to implement programs without relying on AI is desirable, but applicants who can make appropriate and effective use of AI are also welcome. This includes organizing requirements, articulating them clearly to the AI, and understanding, testing, and modifying the generated code as needed.
 
 ## Laboratory Visits and Consultations for Prospective Students
 Prospective students are welcome to [contact us](contact) at any time to arrange a laboratory visit or discuss graduate study. Applications from working professionals are also welcome.

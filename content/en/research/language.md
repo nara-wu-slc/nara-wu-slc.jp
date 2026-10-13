@@ -15,7 +15,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/ogura.mp4" label="Japanese-language video introducing simultaneous machine translation research" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win444)" >}}
 <ul>
 <li>Study low-latency simultaneous translation between Japanese and Korean, which have similar word order</li>
 <li>Use BS-SiMT, which learns from data when to wait before generating a translation</li>
@@ -30,7 +30,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/yamada.mp4" label="Japanese-language video introducing Japanese-to-English machine translation research" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win552)" >}}
 <ul>
 <li>Use large language models to translate descriptions of monuments to poems from the <em>Man'yōshū</em></li>
 <li>Improve translation by providing readings for difficult personal and place names that frequently occur in the descriptions</li>
@@ -46,7 +46,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/okazaki.mp4" label="Japanese-language video introducing research on Japanese named entity recognition" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win441)" >}}
 <ul>
 <li>Identify key named entities in text, including proper names and numerical expressions</li>
 <li>Automatically create additional training data by replacing named entities with others of the same type</li>
@@ -62,7 +62,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2026/yoneda.mp4" label="Japanese-language video introducing research on Japanese grammatical error correction" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2026 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2026 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2026.0_4YinA22)" >}}
 <ul>
 <li>Automatically correct grammatical errors made by beginning learners of Japanese</li>
 <li>Analyze accuracy in correcting inflectional-ending errors for <em>na</em>-adjectives (adjectival nouns)</li>
@@ -77,7 +77,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/takabatake.mp4" label="Japanese-language video introducing research on social media analysis" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win434)" >}}
 <ul>
 <li>Identify language in social media posts that is associated with mental health difficulties</li>
 <li>Use large language models to extract keywords that may be characteristic of people experiencing mental distress</li>
@@ -93,7 +93,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/sawada.mp4" label="Japanese-language video introducing research on writing support" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win545)" >}}
 <ul>
 <li>Use large language models to help people revise their writing</li>
 <li>Ask a large language model to identify points for improvement in Japanese research paper abstracts</li>

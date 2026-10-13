@@ -35,7 +35,7 @@ Our shared Ubuntu computing environment includes GPU servers and workstations wi
 In addition to our on-premises shared computing resources, we use APIs from OpenAI and Google in our research.
 
 ## History
-- Oct. 2026    Three fourth-year undergraduate students joined the laboratory
+- Oct. 2026    Three third-year undergraduate students joined the laboratory
 - Apr. 2026    Two first-year master's students and one fourth-year undergraduate student joined the laboratory
 - Mar. 2026    Three fourth-year undergraduate students joined the laboratory
 - Oct. 2025    Four third-year undergraduate students joined the laboratory

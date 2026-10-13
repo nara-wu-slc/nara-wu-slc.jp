@@ -15,7 +15,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2026/yokoyama.mp4" label="Japanese-language video introducing research on animal vocalization recognition" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2026 Annual Conference" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2026 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2026.0_3YinA32)" >}}
 <ul>
 <li>Analyze animal vocalization recognition results represented using the Inter-Species Phonetic Alphabet (ISPA)</li>
 <li>Evaluate animal-species classification performance using ISPA-based recognition results</li>
@@ -30,7 +30,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/matsufuji.mp4" label="Japanese-language video introducing speech recognition research" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference; Audio and Speech Processing Symposium" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win540); [Audio and Speech Processing Symposium paper](https://ipsj.ixsq.nii.ac.jp/records/2002406)" >}}
 <ul>
 <li>Automatically remove fillers such as “um” and “uh” during speech recognition</li>
 <li>Fine-tune the large-scale Open Whisper-style Speech Model (OWSM)</li>
@@ -46,7 +46,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/sato.mp4" label="Japanese-language video introducing speech synthesis research" >}}
 {{< /card >}}
-{{< card header="**Research Highlights**" footer="JSAI 2025 Annual Conference; Audio and Speech Processing Symposium" >}}
+{{< card header="**Research Highlights**" footer="[JSAI 2025 Annual Conference paper](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win561); [Audio and Speech Processing Symposium paper](https://ipsj.ixsq.nii.ac.jp/records/2002401)" >}}
 <ul>
 <li>Partially control pitch during text-to-speech synthesis</li>
 <li>Add symbols to the input text to specify the desired pitch</li>

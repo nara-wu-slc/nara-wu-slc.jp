@@ -24,6 +24,7 @@ toc_root = false
 offlineSearch = true
 offlineSearchMaxResults = 20
 offlineSearchSummaryLength = 160
+news_limit = 5
 
 [params.copyright]
 authors = "Lab4SLC, Nara Women's University"

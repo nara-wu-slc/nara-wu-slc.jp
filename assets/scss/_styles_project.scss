@@ -118,6 +118,37 @@
   color: #FFFFFF;
 }
 
+.news-list {
+  margin: 0 0 1rem;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 7rem minmax(0, 1fr);
+    gap: 0.5rem 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--bs-border-color);
+  }
+
+  time {
+    color: var(--bs-secondary-color);
+    white-space: nowrap;
+  }
+
+  a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .news-list li {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.25rem;
+  }
+}
+
 .card {
   min-width: 100px;
   margin-top: 0px;

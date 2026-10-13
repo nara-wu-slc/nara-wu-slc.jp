@@ -15,7 +15,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/ogura.mp4" label="同時機械翻訳研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win444)" >}}
 <ul>
 <li>語順が似ている日本語と韓国語の間の高速な同時機械翻訳</li>
 <li>データから同時翻訳において待つタイミングを自動学習するBS-SiMTを使用</li>
@@ -30,7 +30,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/yamada.mp4" label="日英機械翻訳研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win552)" >}}
 <ul>
 <li>万葉歌碑解説文を対象に大規模言語モデルを用いて機械翻訳</li>
 <li>解説文中の人名・地名に頻出する難読語の読み情報を与え機械翻訳を改善</li>
@@ -46,7 +46,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/okazaki.mp4" label="日本語固有表現抽出研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win441)" >}}
 <ul>
 <li>文章中のキーワードとなる固有表現（固有名詞や数量等）を見つける</li>
 <li>固有表現を同種の別のものに言い換えたデータを自動作成し追加学習</li>
@@ -62,7 +62,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2026/yoneda.mp4" label="日本語文法誤り訂正研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2026年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2026年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2026.0_4YinA22)" >}}
 <ul>
 <li>日本語初学者の文法誤りを自動的に訂正</li>
 <li>ナ形容詞（形容動詞）を対象に活用語尾の誤り訂正精度を分析</li>
@@ -77,7 +77,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/takabatake.mp4" label="SNS投稿分析研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_1Win434)" >}}
 <ul>
 <li>SNS投稿から精神的不調に関わることばの表現を抽出</li>
 <li>大規模言語モデルを用い精神的不調を持つ人に特徴的と思われるキーワードを抽出</li>
@@ -93,7 +93,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/sawada.mp4" label="文章推敲支援研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win545)" >}}
 <ul>
 <li>大規模言語モデルを用いて人が書く文章の推敲を支援</li>
 <li>日本語の学術論文の概要を対象に修正すべき点を大規模言語モデルが提案</li>

@@ -1,0 +1,7 @@
+{{- with .Page.Site.GetPage "/news" -}}
+  {{- $limit := int ($.Page.Site.Params.news_limit | default 5) -}}
+  {{- $pages := first $limit .RegularPages.ByDate.Reverse -}}
+  <h2>{{ .Title }}</h2>
+  {{ partial "news-list.html" $pages }}
+  <p><a href="{{ .RelPermalink }}">{{ cond (eq .Language.Lang "ja") "お知らせ一覧" "All news" }}</a></p>
+{{- end -}}

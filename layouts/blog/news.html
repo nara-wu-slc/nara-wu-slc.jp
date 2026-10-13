@@ -1,0 +1,13 @@
+{{ define "main" -}}
+<div class="td-content">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $paginator := .Paginate .RegularPages.ByDate.Reverse -}}
+  {{ partial "news-list.html" $paginator.Pages }}
+</div>
+{{ if gt $paginator.TotalPages 1 -}}
+<div class="td-blog-posts__pagination">
+  {{ partial "pagination.html" . }}
+</div>
+{{- end }}
+{{- end }}

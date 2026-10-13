@@ -15,7 +15,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2026/yokoyama.mp4" label="動物音声認識研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2026年 人工知能学会全国大会" >}}
+{{< card header="**研究のポイント**" footer="2026年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2026.0_3YinA32)" >}}
 <ul>
 <li>ISPA (Inter-Species Phonetic Alphabet) を用いた動物音声認識結果の分析</li>
 <li>ISPAによる認識結果を用いた動物種の分類性能を検証</li>
@@ -30,7 +30,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/matsufuji.mp4" label="音声認識研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win540), [音学シンポジウム（予稿）](https://ipsj.ixsq.nii.ac.jp/records/2002406)" >}}
 <ul>
 <li>フィラー（「あの」「えー」等の表現）を音声認識時に自動的に除去</li>
 <li>大規模音声認識モデルOWSMを追加学習（ファインチューニング）</li>
@@ -46,7 +46,7 @@ hide_summary = true
 {{< card >}}
     {{< video src="/videos/2025/sato.mp4" label="音声合成研究の紹介動画" >}}
 {{< /card >}}
-{{< card header="**研究のポイント**" footer="2025年 人工知能学会全国大会, 音学シンポジウム" >}}
+{{< card header="**研究のポイント**" footer="2025年 [人工知能学会全国大会（論文）](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win561), [音学シンポジウム（予稿）](https://ipsj.ixsq.nii.ac.jp/records/2002401)" >}}
 <ul>
 <li>テキスト音声合成の際に部分的に音の高さをコントロール</li>
 <li>入力テキストに音の高さを指定する記号を追加</li>
