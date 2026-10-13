@@ -1,5 +1,5 @@
 +++
-title = "Yume Sato and Yume Ogura to present at the NL/SLP joint research meeting"
+title = "Two graduate students to present at the NL/SLP joint research meeting"
 date = 2026-10-02
 toc_hide = true
 +++
