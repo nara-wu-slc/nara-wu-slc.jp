@@ -44,7 +44,7 @@ unsafe = true
 [languages.ja]
 label = "日本語"
 contentDir = "content/ja"
-title = "音声・言語・コミュニケーション研究室 (Lab4SLC)"
+title = "奈良女子大学 音声・言語・コミュニケーション研究室 (Lab4SLC)"
 weight = 1
 
 [languages.ja.params]
@@ -55,7 +55,7 @@ time_format_blog = "2006-01-02"
 [languages.en]
 label = "English"
 contentDir = "content/en"
-title = "Laboratory for Speech, Language, and Communication (Lab4SLC)"
+title = "Nara Women's University, Laboratory for Speech, Language, and Communication (Lab4SLC)"
 weight = 2
 
 [languages.en.params]
